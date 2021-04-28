@@ -1,8 +1,8 @@
 public class MinhaPrimeiraClasse{
 	
 	public static void main(Strin[] args){
+		int valor;
 		
-		System.out.println("Hello World");
 	
 	}
 	
