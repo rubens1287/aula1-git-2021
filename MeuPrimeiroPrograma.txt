@@ -2,6 +2,8 @@ public class MinhaPrimeiraClasse{
 	
 	public static void main(Strin[] args){
 		int valor;
+		int run;
+		
 		
 	
 	}
