@@ -3,7 +3,7 @@ public class MinhaPrimeiraClasse{
 	public static void main(Strin[] args){
 		int valor;
 		int run;
-		int a;
+
 		for(int i=0; i <= 10; i++){
 			
 		}
