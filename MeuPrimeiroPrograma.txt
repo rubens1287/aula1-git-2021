@@ -2,9 +2,15 @@ public class MinhaPrimeiraClasse{
 	
 	public static void main(Strin[] args){
 		int valor;
+<<<<<<< HEAD
 		int run;
 		
 		
+=======
+		for(int i=0; i <= 10; i++){
+			
+		}
+>>>>>>> d38f50536ea66b6f5a9d508c2bc37a2304876f15
 	
 	}
 	
