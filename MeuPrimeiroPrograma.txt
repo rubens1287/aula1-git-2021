@@ -4,8 +4,8 @@ public class MinhaPrimeiraClasse{
 		int valor;
 		int run;
 
-		for(int i=0; i <= 10; i++){
-			//Etec 20201
+		for(int i=0; i <= 10; i++){	
+			
 		}
 	}
 }
