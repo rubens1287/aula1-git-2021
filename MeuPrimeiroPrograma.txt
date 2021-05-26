@@ -5,6 +5,7 @@ public class MinhaPrimeiraClasse{
 		int run;
 		String resultado;
 		Long id;
+		//correção login
 		for(int i=0; i <= 10; i++){
 			System.out.println(2 * i)
 		}
