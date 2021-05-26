@@ -3,7 +3,8 @@ public class MinhaPrimeiraClasse{
 	public static void main(Strin[] args){
 		int valor;
 		int run;
-
+		String resultado;
+		Long id;
 		for(int i=0; i <= 10; i++){
 			System.out.println(2 * i)
 		}
